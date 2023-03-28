@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  .top-panel {
+    background-color: #0072C6;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .top-panel a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  
+  .top-panel a:hover {
+    text-decoration: underline;
+  }
+  
+  .main-content {
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  ol {
+    margin: 0;
+    padding: 0 0 0 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
